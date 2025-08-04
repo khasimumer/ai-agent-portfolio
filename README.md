@@ -2,7 +2,7 @@
 AI Agent Portfolio for Khasim Sirshad
 
 # 👋 Intro
-https://images.mindstudio-cdn.com/images/e2b6b5e4-161d-4617-aca1-42f277b63bb0_1754333517870.jpeg?format=png&w=1000
+
 ## 👤 About Me
 
 I'm Khasim, a Lead Software Engineer with 17+ years of experience in backend development, system architecture, and full-stack solutions — primarily in Java and cloud-native ecosystems. 
